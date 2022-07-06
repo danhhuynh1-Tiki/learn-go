@@ -3,7 +3,7 @@
 
 ### [Context][2]
 
-[1]:github.com/danhhuynh135/learn-go/tree/main/tourgo
+[1]:tourgo
 
-[2]:github.com/danhhuynh135/learn-go/tree/main/context
+[2]:context
 
